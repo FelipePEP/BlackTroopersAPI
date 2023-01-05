@@ -9,6 +9,8 @@ Conheça mais de Black Troopers [aqui](http://guildadosmestres.com.br/tag/black-
 
 ## Camadas da Arquitetura
 
+![Clean Architecture](http://guildadosmestres.com.br/wp-content/uploads/2023/01/cleanArchGitHub.png)
+
 ### Domain
 
 Conterá todas as entidades, enums, exceções, interfaces dos casos de uso, tipos e lógica específicos da camada de domínio.
